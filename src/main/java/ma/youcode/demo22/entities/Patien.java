@@ -20,4 +20,5 @@ public class Patien {
     private Date dateNaissance;
     private int score;
     private boolean malade;
+
 }
